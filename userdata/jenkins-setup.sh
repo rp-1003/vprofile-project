@@ -1,4 +1,5 @@
 #!/bin/bash
+#to trigger auto update adding this line
 sudo apt update
 sudo apt install openjdk-11-jdk -y
 sudo apt install maven -y
